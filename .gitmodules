@@ -1,3 +1,12 @@
 [submodule "StarGAN"]
 	path = StarGAN
 	url = https://github.com/Kirili4ik/StarGAN-PyTorch
+[submodule "Pix2Pix"]
+	path = Pix2Pix
+	url = https://github.com/Kirili4ik/pix2pix-pytorch
+[submodule "VAE"]
+	path = VAE
+	url = https://github.com/Kirili4ik/VAE-PyTorch
+[submodule "Glow"]
+	path = Glow-OOD-Test
+	url = https://github.com/Kirili4ik/Glow-PyTorch
