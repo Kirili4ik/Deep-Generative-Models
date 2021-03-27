@@ -1,0 +1,3 @@
+[submodule "StarGAN"]
+	path = StarGAN
+	url = https://github.com/Kirili4ik/StarGAN-PyTorch
