@@ -8,5 +8,5 @@
 	path = VAE
 	url = https://github.com/Kirili4ik/VAE-PyTorch
 [submodule "Glow"]
-	path = Glow-OOD-Test
+	path = Glow-OOD-Exp
 	url = https://github.com/Kirili4ik/Glow-PyTorch
